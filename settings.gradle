@@ -1,0 +1,3 @@
+rootProject.name = "AmpUtilExample2"
+include ':app'
+include ':AmpUtil'
