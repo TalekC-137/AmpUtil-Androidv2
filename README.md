@@ -108,7 +108,7 @@ fun updateTv(){
 to start the whole process call this function in your onCreate 
 #### JAVA/KOTLIN
 ```
-mp.startEverything(runnable, 100);
+Amp.startEverything(runnable, 100);
 ```
 runnable we created earlier and the "100" in this example is the refresh rate in milliseconds 
 so given this example app the TextView will update every 100ms giving us the current dB gain and AmplitudeEMA
